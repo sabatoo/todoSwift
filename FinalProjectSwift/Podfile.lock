@@ -1,0 +1,26 @@
+PODS:
+  - Masonry (1.1.0)
+  - Realm (3.3.0):
+    - Realm/Headers (= 3.3.0)
+  - Realm/Headers (3.3.0)
+  - RealmSwift (3.3.0):
+    - Realm (= 3.3.0)
+  - REMenu (1.10)
+  - SnapKit (4.0.0)
+
+DEPENDENCIES:
+  - Masonry (~> 1.1)
+  - RealmSwift
+  - REMenu (~> 1.10)
+  - SnapKit (~> 4.0.0)
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  Realm: 7d74ad6c5020432f58fe5e1df90bb6d97b2c7fef
+  RealmSwift: b2fa31a09c22e246026766557405505eeaad2b01
+  REMenu: 30dad195930adf6c5eeb8041e3257aa60bf9fa49
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+
+PODFILE CHECKSUM: 1b73ab5058c4207575bb58021805dea4a98a345f
+
+COCOAPODS: 1.4.0

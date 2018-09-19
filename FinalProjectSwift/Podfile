@@ -1,0 +1,10 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '10.0'
+use_frameworks!
+
+target 'FinalProjectSwift' do
+pod 'SnapKit', '~> 4.0.0'
+pod 'REMenu', '~> 1.10'
+pod 'Masonry', '~> 1.1'
+pod 'RealmSwift'
+end
